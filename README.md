@@ -18,7 +18,7 @@
 - SQL and No relational Databases
 - Linux
 - Arduino and electronics
-- ASM for Pics
+- RPA ⭐
 
 ## Awesome Projects 📚
 
