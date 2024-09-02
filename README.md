@@ -13,7 +13,7 @@
 
 ## Tech Stack ⌨
 
-- Python and Django ⭐
+- Python and FastAPI ⭐
 - Rust and C++ ⭐
 - Java and Spring Boot ⭐
 - SQL and No relational Databases
